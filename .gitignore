@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+out/
+*.js.map
+
+# VS Code Extension files
+*.vsix
+.vscode-test/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Test files (if you add tests later)
+.nyc_output
+
+# Temporary folders
+tmp/
+temp/
+
+# IDE files
+.idea/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Test file (remove this line if you want to keep the test file in git)
+test-file.js
