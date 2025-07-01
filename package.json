@@ -1,7 +1,7 @@
 {
   "name": "gaa",
   "displayName": "Generative Adversarial Agent",
-  "version": "0.7.2",
+  "version": "0.10.6",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -12,7 +12,7 @@
     "commands": [
       {
         "command": "gaa.run",
-        "title": "GAA: Run Code Review"
+        "title": "GAA: Comprehensive Code Review"
       }
     ]
   },
